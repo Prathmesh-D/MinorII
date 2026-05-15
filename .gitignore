@@ -1,0 +1,26 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Data and generated results
+data/input_files/_generated/
+data/results/
+
+# Large binaries and images
+*.bin
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Test / cache
+.pytest_cache/
+*.log
